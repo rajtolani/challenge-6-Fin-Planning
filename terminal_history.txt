@@ -1,0 +1,29 @@
+    1  cd c:/RajB*
+    2  cd challenge-6
+    3  cd Sta*
+    4  git config --global user.name Raj Tolani
+    5  git config --global user.email admin@tolanicollection.com
+    6  git config --list
+    7  https://github.com/rajtolani/challenge-6-Fin-Planning.git
+    8  git clone https://github.com/rajtolani/challenge-6-Fin-Planning.git
+    9  ls
+   10  cd chall*
+   11  ls
+   12  git status
+   13  git status
+   14  git add .
+   15  git status
+   16  git commit -m "This version has the original starter files provided but the Fintech BootCamp Staff. Confirm that .env does not get uploaded"
+   17  git push
+   18  git status
+   19  git status
+   20  git add financial_pla*
+   21  git status
+   22  git commit -m "This version has the complete code for Part 1 Financial Planner for Emergency Fund"
+   23  git push
+   24  git status
+   25  git add financial_planning_tools.ipynb
+   26  git status
+   27  git commit -m "Final Submission with all code,comments and answers completed. Will generate command history and submit it after pushing this version"
+   28  git push
+   29  history 50 > terminal_history.txt
